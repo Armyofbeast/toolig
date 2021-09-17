@@ -132,18 +132,15 @@ const Excute = async function(User, Sleep, mysyntx){
 console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
+  [?] We are Army Of Beasts
+  [?] We are anonymous
+  [?] We are legion
+  [?] Expert us
+  ——————————————————  [We Are]  ————————————————————
+  [✓] Army Of Beasts
+  —————————————————————————————————————————————————————
+ `);
 
-  [?] {bold.green Check Username Account *AUTO!}
-  [?] {bold.green Save Result to Log.txt}
-
-  ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@officialputu_id)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
-  —————————————————————————————————————————————————————}
-      `);
-//ikiganteng
 inquirer.prompt(User)
 .then(answers => {
   Excute({
