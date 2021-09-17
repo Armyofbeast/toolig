@@ -223,7 +223,7 @@ console.log(chalk`
   [✓] Army Of Beasts
   —————————————————————————————————————————————————————
       `);
-//ikiganteng
+//Armyofbeast
 inquirer.prompt(User)
 .then(answers => {
   Excute({
