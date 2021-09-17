@@ -160,7 +160,7 @@ const Excute = async function(User, TargetUsername, mysyntx, sleep){
 	}
 }
 console.log(chalk`
-  {bold.cyan
+  {bold.gren
   —————————————————— [INFORMATION] ————————————————————
   [?] We are Army Of Beasts
   [?] We are anonymous
@@ -170,7 +170,7 @@ console.log(chalk`
   [✓] Army Of Beasts
   —————————————————————————————————————————————————————
       `);
-//ikiganteng
+
 inquirer.prompt(User)
 .then(answers => {
 	Excute({
