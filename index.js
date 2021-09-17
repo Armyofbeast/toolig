@@ -10,7 +10,7 @@ const inquirer = require('inquirer');
 const questionTools = [
   {
     type:"list",
-    name:"Tools",
+    name:"Tool",
     message:"Select tools:",
     choices:
       [
@@ -110,7 +110,7 @@ const main = async () => {
 }
 
 console.log(chalk`
-  {bold.cyan
+  {bold.gren
 ────────────────────────────────────────────────────────────
 ─██████████████─██████████████─██████████████─██████────────
 ─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒██─██▒▒██────────
