@@ -162,16 +162,13 @@ const Excute = async function(User, TargetUsername, mysyntx, sleep){
 console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
-  [?] {bold.green BOM LIKE POST TARGET *SET SLEEP!}
-  ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@officialputu_id)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
+  [?] We are Army Of Beasts
+  [?] We are anonymous
+  [?] We are legion
+  [?] Expert us
+  ——————————————————  [We Are]  ————————————————————
+  [✓] Army Of Beasts
   —————————————————————————————————————————————————————
-  What's new?
-  1. Input Target/delay Manual (ITTYW)
-  —————————————————————————————————————————————————————}
       `);
 //ikiganteng
 inquirer.prompt(User)
