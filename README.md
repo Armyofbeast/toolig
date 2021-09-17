@@ -1,7 +1,7 @@
 # toolig V.1.0
 
 
-[![Build](https://img.shields.io/badge/Codename_-_toolsig_v1.0-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Codename_-_toolig_v1.0-brightgreen.svg)]()
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 ## Table of Contents
