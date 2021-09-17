@@ -101,17 +101,14 @@ const Excute = async function(User){
     }
 }
 console.log(chalk`
-  {bold.cyan
+  {bold.gren
   —————————————————— [INFORMATION] ————————————————————
 
-  [?] {bold.green BOTLIKEv2 | Like/Love TL IG *AUTO!}
+  [?] We are Army Of Beasts
+  [?] We are anonymous
+  [?] We are legion
+  [?] Expert us
 
-  ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@teamsyntaxid)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
-  —————————————————————————————————————————————————————}
       `);
 
 inquirer.prompt(User)
