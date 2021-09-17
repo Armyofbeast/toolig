@@ -103,13 +103,14 @@ const Excute = async function(User){
 console.log(chalk`
   {bold.gren
   —————————————————— [INFORMATION] ————————————————————
-
   [?] We are Army Of Beasts
   [?] We are anonymous
   [?] We are legion
   [?] Expert us
-
-      `);
+  ——————————————————  [We Are]  ————————————————————
+  [✓] Army Of Beasts
+  —————————————————————————————————————————————————————
+`);
 
 inquirer.prompt(User)
 .then(answers => {
