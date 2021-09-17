@@ -104,6 +104,7 @@ console.log(chalk`
   ——————————————————  [We Are]  ————————————————————
   [✓] Army Of Beasts
   —————————————————————————————————————————————————————
+`);
 
 inquirer.prompt(User)
     .then(answers => {
