@@ -93,18 +93,17 @@ const Excute = async function(User, sleep){
 }
 
 console.log(chalk`
- {bold.cyan
+ {bold.gren
   —————————————————— [INFORMATION] ————————————————————
 
-  [?] {bold.green BOTLIKEv1 | Like/Love TL IG *SET SLEEP!}
-
-  ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@officialputu_id)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
-  —————————————————————————————————————————————————————}
-      `);
+  
+      `);[?] We are Army Of Beasts
+  [?] We are anonymous
+  [?] We are legion
+  [?] Expert us
+  ——————————————————  [We Are]  ————————————————————
+  [✓] Army Of Beasts
+  —————————————————————————————————————————————————————
 
 inquirer.prompt(User)
     .then(answers => {
